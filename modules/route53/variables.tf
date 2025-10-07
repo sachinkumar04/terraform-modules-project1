@@ -1,5 +1,5 @@
 variable hosted_zone_name{
-    default = "techtutorialswithpiyush.com"
+    default = "test.com"
 }
 
 variable cloudfront_hosted_zone_id {}
